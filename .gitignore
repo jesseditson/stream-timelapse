@@ -1,0 +1,5 @@
+# This repo is intended to be cloned, then run - it will store a bunch of archives as siblings, so we just ignore everything and un-ignore the scripts.
+*
+!capture.sh
+!lapse.sh
+!restream.sh
